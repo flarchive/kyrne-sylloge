@@ -1,0 +1,44 @@
+{
+    "name": "kyrne/sylloge",
+    "description": "Send email digests.",
+    "keywords": [
+        "flarum",
+		"digest",
+		"email"
+    ],
+    "type": "flarum-extension",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "flarum/core": "^0.1.0-beta-13",
+        "fof/console": "^0.5.3",
+        "kyrne/ext-core": "*@dev"
+    },
+    "authors": [
+        {
+            "name": "Charlie K",
+            "email": "charlie.k@redevs.org",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kyrne\\Sylloge\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Sylloge",
+            "icon": "fas fa-mail-bulk",
+            "info": {
+                "link": "",
+                "location": "Flarum Commmunity"
+            },
+            "extra": {
+                "icon": "fab fa-github",
+                "link": "https://github.com/kyrnedev/sylloge",
+                "title": "Source",
+                "location": "Github"
+            }
+        }
+    }
+}
