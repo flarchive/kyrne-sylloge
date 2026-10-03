@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of kyrne/sylloge.** Not for installation: use [Packagist](https://packagist.org/packages/kyrne/sylloge) or the [upstream repository](https://github.com/KyrneDev/Sylloge).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.4) · License: `GPL-3.0-or-later` · Flarum: `^0.1.0-beta-13`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.4) · License: `GPL-3.0-or-later` · Flarum: `^0.1.0-beta-13`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-07-28 | `^0.1.0-beta-13` | [Browse](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-07-29 | `^0.1.0-beta-13` | [Browse](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.1) |
+| `0.1.2` | 2020-07-29 | `^0.1.0-beta-13` | [Browse](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.2) |
+| `0.1.3` | 2020-07-29 | `^0.1.0-beta-13` | [Browse](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.3) |
+| `0.1.4` | 2020-08-17 | `^0.1.0-beta-13` | [Browse](https://github.com/flarchive/kyrne-sylloge/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/kyrne-sylloge.json](https://github.com/flarchive/archive-index/blob/main/packages/kyrne-sylloge.json)
 
